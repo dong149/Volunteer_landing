@@ -1,10 +1,13 @@
 import React from 'react';
+import Navigator from '../components/Navigator';
 
 
 const Index = () => {
     return (
         <div>
-            <span>test</span>
+            <Navigator />
+            <span>test 입니다</span>
+
         </div>
     );
 
