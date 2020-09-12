@@ -7,6 +7,7 @@ const Index = () => {
         <div>
             <Navigator />
             <span>test 입니다</span>
+            <span>dkdkdk</span>
 
         </div>
     );
